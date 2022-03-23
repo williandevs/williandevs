@@ -2,7 +2,6 @@
 <hr/>
 <br/>
 
-[![Blog](https://img.shields.io/website?label=williadev.com&style=for-the-badge&url=https://williamdev.com.br/)](https://williamdev.com.br/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
 
 
 
@@ -37,3 +36,6 @@
 
 Apaixonado por tecnologia, com muita vontade de aprender e mudar a vida das pessoas através da programação.
 
+
+
+[![Blog](https://img.shields.io/website?label=williadev.com&style=for-the-badge&url=https://williamdev.com.br/)](https://williamdev.com.br/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
