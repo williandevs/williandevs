@@ -6,7 +6,7 @@
 
 
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=williandevs&show_icons=true&theme=dracula&count_private=true)
+![Willian GitHub stats](https://github-readme-stats.vercel.app/api?username=williandevs&show_icons=true&theme=dracula&count_private=true)
 
 ## Tecnologias que eu estou Estudando Front-End
 <br/>   
