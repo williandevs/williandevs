@@ -1,17 +1,12 @@
 <div align="center">
-  
-  # ⚡ Willian Figueiredo
-  ### Full Stack Developer | Next.js Specialist | UI/UX Enthusiast
-  
-  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9D00FF&center=true&vCenter=true&width=700&height=100&lines=WILLIAN+FIGUEIREDO;FULL+STACK+DEVELOPER;NEXT.JS+SPECIALIST;TRANSFORMANDO+CAFÉ+EM+CÓDIGO" alt="Typing SVG" />
 
-  <img src="https://img.shields.io/badge/Status-Building_Aparatus-blueviolet?style=for-the-badge&logo=codepen" /> 
-  <img src="https://img.shields.io/badge/Open_to_Work-Yes-success?style=for-the-badge" />
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/mshibanami/entities-graphic-generator/master/dist/images/github-snake-dark.svg" width="80%" />
+  </p>
 
-  <br/><br/>
-  
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRreDdqbmx0cjJ6N3N4NndxZ3p3eDdqbmx0cjJ6N3N4NndxZ3B6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qss04M4T67u14k5UHe/giphy.gif" width="600" />
-
+  <img src="https://img.shields.io/badge/Building-Aparatus_Project-9D00FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open_to_Work-Yes-00FF88?style=for-the-badge" />
 </div>
 
 <br/>
@@ -19,17 +14,17 @@
 <table align="center" border="0">
   <tr>
     <td width="50%" valign="top">
-      <h3>🚀 Sobre Mim</h3>
-      Engenheiro de Software focado em criar soluções que impactam vidas. Especialista em construir interfaces impecáveis com <b>Next.js 16</b> e arquiteturas robustas utilizando <b>Node.js</b>. 
-      <br/><br/>
-      <i>"Transformando café em código escalável e agendamentos em realidade."</i>
+      <h3 align="left">🚀 Sobre Mim</h3>
+      <p align="left">
+        Engenheiro de Software apaixonado por criar experiências digitais impecáveis. 
+        Focado em <b>Next.js 16</b>, <b>Node.js</b> e arquiteturas modernas de banco de dados.
+        <br/><br/>
+        <i>"Codando o hoje para construir o amanhã."</i>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📊 Stack Focus</h3>
-      <img src="https://img.shields.io/badge/Main_Language-TypeScript-blue" /><br/>
-      <img src="https://img.shields.io/badge/Framework-Next.js_16-black" /><br/>
-      <img src="https://img.shields.io/badge/Database-PostgreSQL-336791" /><br/>
-      <img src="https://img.shields.io/badge/ORM-Prisma-2D3748" />
+      <h3 align="left">📊 Skills Dashboard</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williandevs&layout=compact&theme=vision-friendly-dark&hide_border=true&title_color=9D00FF&text_color=ffffff&bg_color=00000000" />
     </td>
   </tr>
 </table>
@@ -37,17 +32,32 @@
 ---
 
 <div align="center">
-  <h2>🛠️ My Modern Stack</h2>
+  <h2>🛠️ Meu Arsenal Tecnológico</h2>
   <br/>
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs" />
-  <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript" />
-  <br/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql" />
-  <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <table>
+    <tr>
+      <td align="center"><b>Frontend</b></td>
+      <td align="center"><b>Backend</b></td>
+      <td align="center"><b>Tools</b></td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /><br/>
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/PNPM-F69220?style=flat-square&logo=pnpm&logoColor=white" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -56,7 +66,7 @@
   <h2>📫 Connect with me</h2>
   <br/>
   <a href="https://williamdev.com.br/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -65,6 +75,10 @@
 
 <br/>
 
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=A%20única%20maneira%20de%20fazer%20um%20excelente%20trabalho%20é%20amar%20o%20que%20você%20faz.&author=Steve+Jobs&theme=dracula" />
+</div>
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Talk%20is%20cheap.%20Show%20me%20the%20code.&author=Linus%20Torvalds&theme=dracula" />
+  <img src="https://komarev.com/ghpvc/?username=williandevs&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" />
 </p>
