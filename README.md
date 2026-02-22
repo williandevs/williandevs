@@ -2,8 +2,6 @@
 <hr/>
 <br/>
 
-![Willian GitHub stats](https://github-readme-stats.vercel.app/api?username=williandevs&show_icons=true&theme=dracula&count_private=true)
-
 ## Tecnologias que eu estou Estudando Front-End
 <br/>    
  
@@ -28,7 +26,7 @@
 
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williandevs)](https://github.com/anuraghazra/github-readme-stats)
+---
 
 Apaixonado por tecnologia, com muita vontade de aprender e mudar a vida das pessoas através da programação.
 
