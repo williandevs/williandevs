@@ -1,75 +1,99 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=WILLIAN%20FIGUEIREDO&fontSize=70&animation=fadeIn&fontAlignY=40&desc=FULL%20STACK%20DEVELOPER&descAlignY=60&descSize=25" />
-</div>
+  <h1>WILLIAN FIGUEIREDO • PORTFOLIO</h1>
+  <p>FULL STACK ENGINEER | NEXT.JS & NODE.JS</p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-</div>
-
-<br/>
-
----
-
-### 📡 System Dashboard
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williandevs&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=williandevs&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 📂 Projetos em Destaque
-
-<table align="center">
-  <tr>
-    <td width="50%">
-      <div align="center">
-        <h3>💈 Aparatus</h3>
-        <p>Sistema Full-Stack de agendamento premium para barbearias.</p>
-        <code>Next.js</code> <code>Tailwind v4</code> <code>Neon DB</code>
-      </div>
-    </td>
-    <td width="50%">
-      <div align="center">
-        <h3>🌐 WilliamDev Site</h3>
-        <p>Portfolio pessoal focado em performance e UX moderno.</p>
-        <code>React</code> <code>TypeScript</code> <code>Vercel</code>
-      </div>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛠️ Arsenal Tecnológico
-<div align="center">
-  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next%20%7C%20Tailwind-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/Backend-Node%20%7C%20Prisma%20%7C%20PostgreSQL-339933?style=flat-square" />
-  <img src="https://img.shields.io/badge/Studying-Java%20%7C%20Spring%20Boot-orange?style=flat-square" />
-</div>
-
-<br/>
-
-<div align="center">
   <a href="https://williamdev.com.br/">
-    <img src="https://img.shields.io/badge/MEU%20SITE-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-About.me-purple?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://instagram.com/">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=williandevs&color=blueviolet&style=flat-square&label=PERFIL+VIEWS" />
+  <a href="https://linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" />
-</p>
+<br/>
+
+<hr/>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💼 Experience</h3>
+      <blockquote>
+        <b>Desenvolvedor Full-Stack</b><br/>
+        Freelancer / Projetos Independentes
+      </blockquote>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 Formação</h3>
+      <blockquote>
+        <b>Análise e Desenv. de Sistemas</b><br/>
+        UNOPAR (2022 - 2024)
+      </blockquote>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <h2>⭐ Meus Projetos</h2>
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="300">
+      <b>💈 Aparatus</b><br/>
+      <i>Sistema de agendamento Premium</i><br/>
+      <a href="#"><img src="https://img.shields.io/badge/Ver_Projeto-blue?style=flat-square" /></a>
+    </td>
+    <td align="center" width="300">
+      <b>🌐 Blog Pessoal</b><br/>
+      <i>Sistema de CMS moderno</i><br/>
+      <a href="#"><img src="https://img.shields.io/badge/Ver_Site-blue?style=flat-square" /></a>
+    </td>
+    <td align="center" width="300">
+      <b>📦 E-commerce API</b><br/>
+      <i>Backend robusto em Node</i><br/>
+      <a href="#"><img src="https://img.shields.io/badge/Ver_Projeto-blue?style=flat-square" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>🛠️ Tech Stack</b><br/>
+      Next.js, Prisma, PostgreSQL
+    </td>
+    <td align="center">
+      <b>🎨 Tailwind Design</b><br/>
+      Componentes customizados
+    </td>
+    <td align="center">
+      <b>🚀 Deploy</b><br/>
+      CI/CD com Vercel
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <h2>🛠️ Tecnologias</h2>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=williandevs&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" />
+</div>
